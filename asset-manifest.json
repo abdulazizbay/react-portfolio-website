@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/abdulazizbay/react-portfolio-react/static/css/main.06a7b8a2.css",
-    "main.js": "/abdulazizbay/react-portfolio-react/static/js/main.e5583e8c.js",
-    "static/media/molla.png": "/abdulazizbay/react-portfolio-react/static/media/molla.4e9eec019073c7f42055.png",
-    "static/media/home-main.svg": "/abdulazizbay/react-portfolio-react/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/abdulazizbay/react-portfolio-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/budget-calc.png": "/abdulazizbay/react-portfolio-react/static/media/budget-calc.6bfa123acc0552439a7e.png",
-    "static/media/resume.pdf": "/abdulazizbay/react-portfolio-react/static/media/resume.ff0a19917bec6a0c4890.pdf",
-    "static/media/akfa.png": "/abdulazizbay/react-portfolio-react/static/media/akfa.fc908c301bc441ac56df.png",
-    "static/media/home-bg.jpg": "/abdulazizbay/react-portfolio-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/abdulazizbay/react-portfolio-react/static/media/pre.066bb68cb3be9115aa82.svg",
-    "index.html": "/abdulazizbay/react-portfolio-react/index.html",
-    "main.06a7b8a2.css.map": "/abdulazizbay/react-portfolio-react/static/css/main.06a7b8a2.css.map",
-    "main.e5583e8c.js.map": "/abdulazizbay/react-portfolio-react/static/js/main.e5583e8c.js.map"
+    "main.css": "/react-portfolio-react/static/css/main.8f31659c.css",
+    "main.js": "/react-portfolio-react/static/js/main.f0f65672.js",
+    "static/media/molla.png": "/react-portfolio-react/static/media/molla.4e9eec019073c7f42055.png",
+    "static/media/home-main.svg": "/react-portfolio-react/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/react-portfolio-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/budget-calc.png": "/react-portfolio-react/static/media/budget-calc.6bfa123acc0552439a7e.png",
+    "static/media/resume.pdf": "/react-portfolio-react/static/media/resume.ff0a19917bec6a0c4890.pdf",
+    "static/media/akfa.png": "/react-portfolio-react/static/media/akfa.fc908c301bc441ac56df.png",
+    "static/media/home-bg.jpg": "/react-portfolio-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/react-portfolio-react/static/media/pre.066bb68cb3be9115aa82.svg",
+    "index.html": "/react-portfolio-react/index.html",
+    "main.8f31659c.css.map": "/react-portfolio-react/static/css/main.8f31659c.css.map",
+    "main.f0f65672.js.map": "/react-portfolio-react/static/js/main.f0f65672.js.map"
   },
   "entrypoints": [
-    "static/css/main.06a7b8a2.css",
-    "static/js/main.e5583e8c.js"
+    "static/css/main.8f31659c.css",
+    "static/js/main.f0f65672.js"
   ]
 }
