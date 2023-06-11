@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-react/static/css/main.8f31659c.css",
-    "main.js": "/react-portfolio-react/static/js/main.f0f65672.js",
-    "static/media/molla.png": "/react-portfolio-react/static/media/molla.4e9eec019073c7f42055.png",
-    "static/media/home-main.svg": "/react-portfolio-react/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/react-portfolio-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/budget-calc.png": "/react-portfolio-react/static/media/budget-calc.6bfa123acc0552439a7e.png",
-    "static/media/resume.pdf": "/react-portfolio-react/static/media/resume.ff0a19917bec6a0c4890.pdf",
-    "static/media/akfa.png": "/react-portfolio-react/static/media/akfa.fc908c301bc441ac56df.png",
-    "static/media/home-bg.jpg": "/react-portfolio-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/react-portfolio-react/static/media/pre.066bb68cb3be9115aa82.svg",
-    "index.html": "/react-portfolio-react/index.html",
-    "main.8f31659c.css.map": "/react-portfolio-react/static/css/main.8f31659c.css.map",
-    "main.f0f65672.js.map": "/react-portfolio-react/static/js/main.f0f65672.js.map"
+    "main.css": "/react-portfolio-website/static/css/main.db9296f0.css",
+    "main.js": "/react-portfolio-website/static/js/main.3e964b7e.js",
+    "static/media/molla.png": "/react-portfolio-website/static/media/molla.4e9eec019073c7f42055.png",
+    "static/media/home-main.svg": "/react-portfolio-website/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/react-portfolio-website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/budget-calc.png": "/react-portfolio-website/static/media/budget-calc.6bfa123acc0552439a7e.png",
+    "static/media/resume.pdf": "/react-portfolio-website/static/media/resume.ff0a19917bec6a0c4890.pdf",
+    "static/media/akfa.png": "/react-portfolio-website/static/media/akfa.fc908c301bc441ac56df.png",
+    "static/media/home-bg.jpg": "/react-portfolio-website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/react-portfolio-website/static/media/pre.066bb68cb3be9115aa82.svg",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.db9296f0.css.map": "/react-portfolio-website/static/css/main.db9296f0.css.map",
+    "main.3e964b7e.js.map": "/react-portfolio-website/static/js/main.3e964b7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f31659c.css",
-    "static/js/main.f0f65672.js"
+    "static/css/main.db9296f0.css",
+    "static/js/main.3e964b7e.js"
   ]
 }
